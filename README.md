@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @FabianoChela, I am a Certified Associate in Python Programming (PCAP) from the Python Institute.
-- 👀 I’m interested in Python, Django, SQLite and other Python frameworks.
-- 🌱 I’m currently pursuing studies in the Certified Professional Python Programmer (PCPP1) course at OPENEDG (edube.org)
-- 💞️ I’m looking to collaborate on various Python projects.
-- 📫 How to reach me via email at chelafabiano@gmail.com
+"Hello, I'm Fabiano Chela, a data analyst with a passion for turning complex datasets into actionable insights. With a strong background in data manipulation, statistical analysis, and data visualization, I am dedicated to helping organizations make data-driven decisions that drive growth and efficiency. My skill set includes Microsoft Excel, SQL, Tableau and Python, and I am always eager to tackle new challenges and explore innovative approaches to extracting valuable information from data. Let's harness the power of data together to unlock new opportunities and drive success for your organization."
 
 <!---
 FabianoChela/FabianoChela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
